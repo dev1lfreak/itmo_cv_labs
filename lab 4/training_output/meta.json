@@ -1,0 +1,30 @@
+{
+  "color_names": [
+    "black",
+    "blue",
+    "brown",
+    "gold",
+    "green",
+    "red",
+    "silver",
+    "white",
+    "yellow"
+  ],
+  "color_to_idx": {
+    "black": 0,
+    "blue": 1,
+    "brown": 2,
+    "gold": 3,
+    "green": 4,
+    "red": 5,
+    "silver": 6,
+    "white": 7,
+    "yellow": 8
+  },
+  "num_classes": 9,
+  "best_f1_scratch": 0.8364340799145447,
+  "best_f1_pretrained": 0.8611878560388087,
+  "num_train": 38312,
+  "num_val": 9579,
+  "num_test": 11973
+}
