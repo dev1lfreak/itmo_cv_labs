@@ -1,0 +1,9 @@
+path: /content/dataset
+train: train/images
+val: val/images
+
+train_masks: train/masks
+val_masks: val/masks
+
+names:
+  0: road sign
